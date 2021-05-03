@@ -1,0 +1,6 @@
+opencv_python==4.5.1.48
+streamlit==0.81.0
+tensorflow
+Keras==2.4.3
+numpy==1.19.5
+Pillow==8.2.0
