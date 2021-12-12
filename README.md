@@ -12,3 +12,4 @@ L&#39;objectif de ce projet est de créer un détecteur capable d&#39;identifier
 
 [https://peaceful-headland-63248.herokuapp.com/](https://peaceful-headland-63248.herokuapp.com/)
 
+<img src="/chrome-capture.gif" width="450">
